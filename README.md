@@ -16,6 +16,7 @@ c. Describe the steps to open a pull request?
 - On the upper right-hand corner, click on the - New pull request button
 - Using the dropdowns, Select the branch you want to merge into and the branch you want to merge from
 - Click on Create pull request
+- Add comments as necessary
 
 d. Describe the steps to add a collaborator to a repository (share write permissions)
 
